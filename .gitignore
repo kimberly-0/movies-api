@@ -34,3 +34,6 @@ build/
 
 ### ENV Files ###
 .env
+
+### System files ###
+.DS_Store
