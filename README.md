@@ -1,4 +1,4 @@
-# Movies app - front end
+# Movies app - back end
 
 This project is created with a course from freeCodeCamp: [Full Stack Development with Java Spring Boot, React, and MongoDB](https://www.youtube.com/watch?v=5PdEmeopJVQ) [^1]
 
